@@ -1,0 +1,15 @@
+D:\C#\P7_Count_Consonant\bin\Debug\net6.0\P7_Count_Consonant.exe
+D:\C#\P7_Count_Consonant\bin\Debug\net6.0\P7_Count_Consonant.deps.json
+D:\C#\P7_Count_Consonant\bin\Debug\net6.0\P7_Count_Consonant.runtimeconfig.json
+D:\C#\P7_Count_Consonant\bin\Debug\net6.0\P7_Count_Consonant.dll
+D:\C#\P7_Count_Consonant\bin\Debug\net6.0\P7_Count_Consonant.pdb
+D:\C#\P7_Count_Consonant\obj\Debug\net6.0\P7_Count_Consonant.csproj.AssemblyReference.cache
+D:\C#\P7_Count_Consonant\obj\Debug\net6.0\P7_Count_Consonant.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\P7_Count_Consonant\obj\Debug\net6.0\P7_Count_Consonant.AssemblyInfoInputs.cache
+D:\C#\P7_Count_Consonant\obj\Debug\net6.0\P7_Count_Consonant.AssemblyInfo.cs
+D:\C#\P7_Count_Consonant\obj\Debug\net6.0\P7_Count_Consonant.csproj.CoreCompileInputs.cache
+D:\C#\P7_Count_Consonant\obj\Debug\net6.0\P7_Count_Consonant.dll
+D:\C#\P7_Count_Consonant\obj\Debug\net6.0\refint\P7_Count_Consonant.dll
+D:\C#\P7_Count_Consonant\obj\Debug\net6.0\P7_Count_Consonant.pdb
+D:\C#\P7_Count_Consonant\obj\Debug\net6.0\P7_Count_Consonant.genruntimeconfig.cache
+D:\C#\P7_Count_Consonant\obj\Debug\net6.0\ref\P7_Count_Consonant.dll
